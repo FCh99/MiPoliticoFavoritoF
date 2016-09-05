@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mis Políticos</string>
+    <string name="politico_prompt">Tu político favorito</string>
+
+    <string-array name="spinner_options">
+        <item>Tu político es...</item>
+        <item>Mariano Rajoy</item>
+        <item>Albert Rivera</item>
+        <item>Pablo Iglesias</item>
+        <item>Pedro Sánchez</item>
+
+
+    </string-array>
+</resources>
